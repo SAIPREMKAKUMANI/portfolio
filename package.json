@@ -1,0 +1,18 @@
+{
+  "name": "mern-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saiprem",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "nodemailer": "^6.9.14"
+  }
+}
